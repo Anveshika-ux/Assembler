@@ -1,8 +1,3 @@
-// Assembler
-// Group mumbers :
-//  Name : Neha Dahire
-//  Name : Radha
-//  Name : Sarthak Dev Rathor
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
